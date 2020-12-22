@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Helvetica Neue, Arial;
+    font-size: 18px;
+}
+
+h1,
+h2 {
+    color: rgb(6, 90, 29);
+    font-family: Helvetica Neue, Arial;
+}
+
+h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.pClass {
+    font-size: 18px;
+    text-align: justify;
+    font-family: Arial;
+    margin-bottom: 20px;
+}
+
+.iAuth {
+    font-size: 22px;
+}
+
+
+.container {
+
+    width: 1140px;
+    margin: 20px auto 0;
+}
+
+.blog-post {
+    position: relative;
+    // background-color: aqua;
+    width: 75%;
+    float: left;
+    padding-right: 20px;
+}
+
+.blog-post img {
+    height: 200px;
+    width: 400px;
+}
+
+.other-posts {
+    //background-color: lawngreen;
+    width: 25%;
+    float: left;
+}
+
+.author-box {
+    //background-color: yellow;
+    border-top: 1px solid grey;
+    padding-top: 20px;
+}
+
+.author-box img {
+    float: left;
+    border-radius: 50%;
+
+}
+
+.author-box p {
+    float: left;
+    width: auto;
+    margin-top: 50px;
+    margin-left: 10px;
+
+}
+
+.clear {
+    clear: both;
+}
+
+.other-inner-blog-post {
+    margin-bottom: 20px;
+}
+
+.time {
+    /*
+    position: relative;
+    bottom: 675px;
+    left: 700px;
+*/
+    position: absolute;
+    top: 0px;
+    right: 0px;
+/*    background-color: aqua;*/
+    margin-right: 20px;
+
+}

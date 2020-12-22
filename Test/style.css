@@ -1,0 +1,55 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+
+.section-one {
+  padding: 0 15%;
+    background-color: #EE6C4D;
+    height:45rem;
+    position: relative;
+}
+
+.img-one{
+    max-width: 100%;
+    max-height: 100%;
+    position: absolute;
+top: 25%;
+left: 0}
+
+
+.col-lg-6 h1 {
+    
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.6;
+    font-weight:900 ;
+    margin: 2rem 0 1rem 0;
+}
+
+
+
+.container-two {
+/*    border: 1px solid black;*/
+    width: 500px;
+    height: 600px;
+/*    background-color: aqua;*/
+    position: relative
+}
+
+#inner-text {
+    font-family: 'Lora', serif;
+    color: #002333; 
+    font-size: 36px;"
+    font-weight: 400; 
+    font-style: normal;
+}
+
+#inner-text-two {
+    font-family: 'Ubuntu', sans-serif;
+    color: rgb(0, 35, 51);
+    font-size: 18px;
+   font-family: 'DM Sans', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    margin-top: 1rem;
+}
