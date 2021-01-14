@@ -211,7 +211,7 @@ float: left;
     
 }
 
-.carousel-content {
+.carousel-item {
     height: 450px;
     box-sizing: border-box;
     text-align: center;
